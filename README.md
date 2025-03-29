@@ -1,6 +1,6 @@
 # Movie Search and Management Web Application
 
-This web application is a feature-rich platform designed for coding test purposes. It showcases modern web development practices, clean architecture, and an engaging user experience. The project is built to demonstrate proficiency in full-stack development, API integration, and responsive design.
+This web application is a platform designed for coding test purposes. It showcases modern web development practices, and clean architecture. The project is built to demonstrate proficiency in full-stack development, API integration, and responsive design.
 
 ## Features
 
